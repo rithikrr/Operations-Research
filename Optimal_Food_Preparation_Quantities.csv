@@ -1,0 +1,1783 @@
+Type of Food,Event Type,Optimal Quantity,Wastage Per Unit,Cost Per Unit
+Meat,Corporate,139.5,25,200
+Meat,Birthday,180.0,40,600
+Vegetables,Birthday,136.0,27,200
+Meat,Birthday,221.0,32,600
+Meat,Corporate,135.0,25,400
+Meat,Birthday,136.0,27,200
+Meat,Wedding,108.0,20,200
+Meat,Wedding,135.0,25,400
+Fruits,Corporate,144.0,45,600
+Meat,Corporate,180.0,40,600
+Fruits,Wedding,144.0,35,600
+Meat,Birthday,136.0,27,200
+Meat,Wedding,180.0,25,200
+Meat,Social Gathering,112.5,10,200
+Fruits,Corporate,120.0,24,200
+Meat,Wedding,157.5,40,600
+Fruits,Birthday,135.0,20,200
+Fruits,Wedding,171.0,35,600
+Fruits,Birthday,135.0,25,200
+Meat,Social Gathering,99.0,10,200
+Meat,Corporate,99.0,30,400
+Vegetables,Corporate,99.0,15,200
+Meat,Corporate,157.5,35,600
+Fruits,Wedding,180.0,40,600
+Meat,Wedding,144.0,25,400
+Fruits,Wedding,180.0,40,600
+Baked Goods,Corporate,144.0,35,600
+Meat,Birthday,180.0,40,600
+Meat,Wedding,93.5,22,400
+Meat,Birthday,126.0,20,400
+Meat,Corporate,171.0,25,400
+Meat,Corporate,197.0,35,400
+Fruits,Corporate,157.5,20,200
+Meat,Corporate,99.0,15,400
+Fruits,Corporate,99.0,15,400
+Vegetables,Social Gathering,126.0,20,200
+Meat,Corporate,99.0,15,400
+Fruits,Wedding,221.0,32,600
+Fruits,Birthday,180.0,50,600
+Meat,Birthday,112.5,20,400
+Meat,Corporate,135.0,35,600
+Dairy Products,Corporate,197.5,39,200
+Fruits,Corporate,108.0,20,200
+Baked Goods,Birthday,135.0,20,200
+Fruits,Corporate,126.0,20,400
+Fruits,Wedding,157.5,40,600
+Meat,Social Gathering,180.0,30,400
+Fruits,Birthday,195.5,36,200
+Fruits,Corporate,135.0,15,400
+Fruits,Social Gathering,130.5,27,200
+Dairy Products,Birthday,135.0,20,200
+Meat,Social Gathering,144.0,40,600
+Baked Goods,Birthday,144.0,20,400
+Meat,Social Gathering,180.0,45,600
+Vegetables,Birthday,126.0,20,400
+Baked Goods,Corporate,171.0,35,600
+Meat,Birthday,171.0,30,400
+Meat,Wedding,180.0,50,600
+Meat,Birthday,144.0,30,600
+Vegetables,Wedding,126.0,15,200
+Vegetables,Birthday,144.0,40,600
+Fruits,Social Gathering,112.5,10,200
+Vegetables,Corporate,157.5,35,600
+Meat,Wedding,112.5,40,600
+Vegetables,Corporate,126.0,20,400
+Baked Goods,Birthday,202.5,30,600
+Dairy Products,Social Gathering,112.5,10,200
+Fruits,Wedding,103.5,30,400
+Baked Goods,Birthday,144.0,25,400
+Baked Goods,Wedding,199.0,32,200
+Baked Goods,Birthday,112.5,35,600
+Vegetables,Social Gathering,139.5,35,600
+Fruits,Social Gathering,144.0,30,600
+Dairy Products,Corporate,157.5,30,600
+Meat,Social Gathering,180.0,50,600
+Fruits,Corporate,144.0,35,600
+Vegetables,Wedding,157.5,35,600
+Meat,Social Gathering,126.0,20,400
+Meat,Social Gathering,157.5,40,600
+Baked Goods,Social Gathering,136.0,27,200
+Fruits,Corporate,197.0,35,400
+Baked Goods,Corporate,139.5,35,600
+Dairy Products,Social Gathering,144.0,40,600
+Fruits,Birthday,135.0,15,400
+Baked Goods,Birthday,126.0,20,400
+Dairy Products,Corporate,180.0,25,200
+Vegetables,Corporate,112.5,20,400
+Fruits,Corporate,157.5,45,600
+Dairy Products,Corporate,135.0,40,600
+Fruits,Corporate,157.5,25,400
+Baked Goods,Corporate,171.0,35,600
+Dairy Products,Corporate,112.5,20,200
+Dairy Products,Social Gathering,135.0,30,600
+Fruits,Wedding,112.5,20,400
+Fruits,Social Gathering,180.0,40,600
+Baked Goods,Corporate,135.0,25,400
+Meat,Social Gathering,135.0,40,600
+Fruits,Social Gathering,157.5,45,600
+Dairy Products,Corporate,126.0,20,400
+Fruits,Social Gathering,171.0,35,600
+Dairy Products,Birthday,108.0,20,200
+Baked Goods,Wedding,178.5,31,400
+Baked Goods,Birthday,144.0,25,400
+Dairy Products,Corporate,144.0,25,400
+Vegetables,Social Gathering,180.0,30,600
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Wedding,157.5,25,400
+Baked Goods,Corporate,157.5,25,400
+Baked Goods,Social Gathering,135.0,15,400
+Baked Goods,Social Gathering,157.5,35,600
+Dairy Products,Social Gathering,112.5,20,400
+Baked Goods,Birthday,112.5,20,400
+Vegetables,Social Gathering,180.0,40,600
+Vegetables,Social Gathering,130.5,27,200
+Dairy Products,Social Gathering,126.0,25,200
+Vegetables,Corporate,157.5,40,600
+Fruits,Wedding,120.0,30,200
+Fruits,Birthday,130.5,27,200
+Fruits,Wedding,135.0,35,600
+Meat,Wedding,180.0,50,600
+Fruits,Birthday,112.5,30,600
+Vegetables,Birthday,139.5,35,600
+Meat,Social Gathering,130.5,27,200
+Meat,Birthday,112.5,40,600
+Baked Goods,Wedding,99.0,10,200
+Meat,Birthday,180.0,45,600
+Vegetables,Corporate,112.5,10,200
+Vegetables,Corporate,157.5,30,600
+Meat,Birthday,135.0,20,200
+Meat,Birthday,112.5,20,400
+Meat,Wedding,117.5,23,400
+Meat,Wedding,180.0,30,600
+Vegetables,Wedding,157.5,40,600
+Fruits,Social Gathering,144.0,30,600
+Fruits,Wedding,135.0,15,400
+Vegetables,Birthday,126.0,15,200
+Meat,Wedding,99.0,23,400
+Vegetables,Corporate,135.0,15,400
+Meat,Wedding,112.5,25,400
+Baked Goods,Social Gathering,126.0,20,400
+Baked Goods,Social Gathering,171.0,25,400
+Dairy Products,Corporate,144.0,35,600
+Baked Goods,Birthday,157.5,30,400
+Dairy Products,Corporate,103.5,30,400
+Baked Goods,Social Gathering,157.5,40,600
+Dairy Products,Social Gathering,171.0,25,400
+Dairy Products,Social Gathering,154.0,29,400
+Fruits,Wedding,180.0,40,600
+Vegetables,Wedding,123.5,16,200
+Vegetables,Social Gathering,99.0,15,200
+Baked Goods,Wedding,126.0,25,400
+Vegetables,Corporate,180.0,40,600
+Baked Goods,Wedding,99.0,15,400
+Baked Goods,Wedding,180.0,40,600
+Dairy Products,Wedding,180.0,25,200
+Meat,Social Gathering,157.5,35,600
+Dairy Products,Corporate,135.0,35,600
+Fruits,Corporate,135.0,35,600
+Dairy Products,Social Gathering,212.5,36,200
+Fruits,Wedding,178.5,31,400
+Dairy Products,Birthday,197.5,39,200
+Vegetables,Corporate,99.0,15,400
+Fruits,Birthday,99.0,15,400
+Fruits,Birthday,99.0,15,400
+Dairy Products,Corporate,135.0,20,200
+Baked Goods,Corporate,180.0,50,600
+Baked Goods,Corporate,126.0,20,400
+Baked Goods,Wedding,157.5,35,600
+Baked Goods,Corporate,157.5,40,600
+Dairy Products,Wedding,180.0,35,600
+Meat,Social Gathering,157.5,45,600
+Fruits,Social Gathering,112.5,20,400
+Baked Goods,Corporate,157.5,25,400
+Dairy Products,Social Gathering,130.5,27,200
+Dairy Products,Wedding,180.0,35,600
+Dairy Products,Corporate,126.0,20,400
+Dairy Products,Corporate,180.0,25,200
+Meat,Wedding,180.0,45,600
+Baked Goods,Birthday,144.0,30,600
+Fruits,Corporate,139.5,25,200
+Vegetables,Wedding,99.0,15,200
+Vegetables,Social Gathering,165.0,40,200
+Meat,Birthday,157.5,25,400
+Dairy Products,Wedding,112.5,40,600
+Dairy Products,Corporate,212.5,36,200
+Baked Goods,Wedding,112.5,10,200
+Fruits,Social Gathering,99.0,20,200
+Vegetables,Corporate,171.0,30,400
+Meat,Corporate,99.0,15,400
+Fruits,Wedding,180.0,40,600
+Fruits,Birthday,171.0,25,400
+Baked Goods,Birthday,112.5,20,400
+Meat,Birthday,157.5,25,400
+Fruits,Birthday,221.0,32,600
+Fruits,Birthday,171.0,30,400
+Meat,Social Gathering,131.5,50,600
+Vegetables,Birthday,180.0,25,200
+Baked Goods,Birthday,135.0,35,600
+Baked Goods,Wedding,99.0,15,400
+Dairy Products,Corporate,112.5,10,200
+Baked Goods,Corporate,99.0,15,200
+Fruits,Corporate,103.5,20,200
+Vegetables,Birthday,144.0,25,400
+Baked Goods,Corporate,202.5,30,600
+Fruits,Corporate,180.0,40,600
+Fruits,Corporate,154.0,29,400
+Dairy Products,Wedding,180.0,35,600
+Vegetables,Corporate,99.0,15,400
+Vegetables,Birthday,108.0,30,400
+Dairy Products,Wedding,112.5,35,600
+Dairy Products,Birthday,135.0,30,400
+Dairy Products,Corporate,219.5,63,600
+Baked Goods,Birthday,157.5,30,600
+Meat,Birthday,103.5,30,400
+Meat,Social Gathering,99.0,15,400
+Dairy Products,Wedding,126.0,20,400
+Fruits,Wedding,180.0,50,600
+Dairy Products,Corporate,180.0,40,600
+Baked Goods,Birthday,171.0,25,400
+Fruits,Social Gathering,112.5,20,400
+Dairy Products,Corporate,135.0,20,200
+Dairy Products,Corporate,99.0,15,400
+Baked Goods,Corporate,157.5,25,400
+Vegetables,Social Gathering,144.0,25,400
+Baked Goods,Corporate,144.0,25,400
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Birthday,112.5,20,400
+Dairy Products,Corporate,126.0,15,200
+Dairy Products,Social Gathering,202.5,30,600
+Dairy Products,Wedding,157.5,40,600
+Vegetables,Social Gathering,135.0,40,600
+Dairy Products,Social Gathering,135.0,20,200
+Baked Goods,Social Gathering,99.0,30,400
+Dairy Products,Social Gathering,126.0,20,400
+Dairy Products,Social Gathering,157.5,25,400
+Dairy Products,Social Gathering,111.0,16,400
+Dairy Products,Social Gathering,180.0,40,600
+Dairy Products,Social Gathering,144.0,25,400
+Dairy Products,Social Gathering,180.0,35,600
+Meat,Birthday,144.0,30,600
+Meat,Wedding,126.0,25,400
+Meat,Corporate,144.0,45,600
+Meat,Corporate,139.5,25,200
+Meat,Birthday,157.5,20,200
+Meat,Wedding,180.0,35,600
+Meat,Birthday,157.5,30,600
+Meat,Birthday,157.5,30,600
+Meat,Wedding,180.0,50,600
+Fruits,Wedding,144.0,35,600
+Fruits,Wedding,180.0,40,600
+Baked Goods,Social Gathering,99.0,15,400
+Dairy Products,Social Gathering,195.5,36,200
+Dairy Products,Social Gathering,135.0,40,600
+Dairy Products,Social Gathering,135.0,25,400
+Meat,Birthday,144.0,40,600
+Meat,Corporate,157.5,40,600
+Meat,Corporate,180.0,30,600
+Meat,Birthday,139.5,35,600
+Meat,Wedding,171.0,35,600
+Meat,Wedding,99.0,15,400
+Meat,Corporate,99.0,15,200
+Fruits,Wedding,139.5,35,600
+Meat,Birthday,195.5,36,200
+Fruits,Corporate,219.5,63,600
+Fruits,Corporate,123.5,16,200
+Meat,Wedding,135.0,15,400
+Meat,Wedding,99.0,15,200
+Meat,Corporate,157.5,25,400
+Meat,Wedding,180.0,40,600
+Meat,Corporate,99.0,15,400
+Meat,Birthday,99.0,15,400
+Vegetables,Birthday,157.5,30,600
+Vegetables,Corporate,99.0,15,200
+Baked Goods,Birthday,99.0,15,200
+Dairy Products,Birthday,135.0,20,200
+Vegetables,Corporate,126.0,20,400
+Baked Goods,Corporate,157.5,20,200
+Fruits,Corporate,126.0,20,400
+Baked Goods,Wedding,144.0,35,600
+Meat,Birthday,126.0,20,400
+Meat,Corporate,93.0,20,600
+Fruits,Corporate,123.5,16,200
+Vegetables,Wedding,180.0,35,600
+Meat,Wedding,112.5,20,400
+Meat,Birthday,180.0,40,600
+Fruits,Birthday,157.5,30,600
+Baked Goods,Wedding,135.0,20,200
+Meat,Birthday,157.5,25,400
+Baked Goods,Birthday,112.5,20,400
+Fruits,Birthday,144.0,35,600
+Baked Goods,Wedding,131.5,50,600
+Dairy Products,Birthday,157.5,20,200
+Vegetables,Wedding,144.0,30,600
+Fruits,Birthday,212.5,36,200
+Meat,Corporate,144.0,15,200
+Fruits,Wedding,144.0,35,600
+Meat,Wedding,204.0,54,600
+Dairy Products,Wedding,130.5,27,200
+Dairy Products,Birthday,157.5,35,600
+Fruits,Social Gathering,126.0,20,400
+Fruits,Birthday,99.0,15,400
+Dairy Products,Corporate,126.0,25,400
+Baked Goods,Wedding,112.5,30,600
+Fruits,Corporate,144.0,20,400
+Meat,Wedding,157.5,25,400
+Vegetables,Wedding,120.0,24,200
+Baked Goods,Corporate,202.5,30,600
+Meat,Wedding,99.0,20,400
+Meat,Wedding,135.0,25,400
+Fruits,Birthday,144.0,30,600
+Meat,Corporate,180.0,40,600
+Meat,Social Gathering,99.0,15,400
+Dairy Products,Corporate,180.0,50,600
+Fruits,Wedding,199.0,32,200
+Baked Goods,Birthday,111.0,16,400
+Baked Goods,Birthday,171.0,25,400
+Fruits,Wedding,144.0,35,600
+Meat,Social Gathering,130.5,27,200
+Fruits,Birthday,144.0,40,600
+Vegetables,Birthday,197.0,33,600
+Dairy Products,Birthday,126.0,15,200
+Dairy Products,Social Gathering,126.0,20,200
+Dairy Products,Wedding,126.0,20,400
+Baked Goods,Birthday,180.0,45,600
+Baked Goods,Birthday,157.5,35,600
+Dairy Products,Wedding,157.5,25,400
+Dairy Products,Wedding,99.0,15,200
+Dairy Products,Corporate,117.0,20,200
+Dairy Products,Wedding,112.5,20,400
+Baked Goods,Social Gathering,185.5,38,200
+Dairy Products,Social Gathering,144.0,25,400
+Meat,Corporate,103.5,30,400
+Baked Goods,Birthday,157.5,30,600
+Baked Goods,Corporate,136.0,27,200
+Baked Goods,Corporate,219.5,63,600
+Vegetables,Corporate,157.5,35,600
+Fruits,Corporate,139.5,25,200
+Fruits,Birthday,126.0,20,400
+Meat,Wedding,112.5,25,400
+Meat,Wedding,103.5,20,200
+Meat,Birthday,112.5,20,400
+Baked Goods,Social Gathering,157.5,25,400
+Dairy Products,Corporate,126.0,20,400
+Baked Goods,Social Gathering,126.0,20,400
+Vegetables,Social Gathering,93.5,22,400
+Dairy Products,Wedding,112.5,20,400
+Meat,Birthday,112.5,20,400
+Fruits,Wedding,117.0,20,200
+Meat,Social Gathering,135.0,15,400
+Dairy Products,Wedding,180.0,40,600
+Baked Goods,Birthday,180.0,40,600
+Meat,Social Gathering,157.5,25,400
+Baked Goods,Social Gathering,180.0,40,600
+Baked Goods,Corporate,144.0,25,400
+Baked Goods,Corporate,180.0,50,600
+Dairy Products,Wedding,121.5,40,600
+Dairy Products,Wedding,99.0,15,400
+Dairy Products,Birthday,126.0,20,400
+Baked Goods,Wedding,180.0,50,600
+Vegetables,Corporate,99.0,15,400
+Baked Goods,Corporate,111.0,16,400
+Fruits,Social Gathering,144.0,40,600
+Dairy Products,Birthday,144.0,35,600
+Fruits,Birthday,112.5,40,600
+Dairy Products,Corporate,144.0,45,600
+Meat,Birthday,99.0,15,400
+Dairy Products,Corporate,180.0,45,600
+Baked Goods,Birthday,157.5,40,600
+Baked Goods,Social Gathering,126.0,20,200
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Corporate,144.0,25,400
+Baked Goods,Corporate,111.0,16,400
+Dairy Products,Corporate,126.0,20,400
+Baked Goods,Social Gathering,111.0,16,400
+Baked Goods,Wedding,103.5,30,400
+Baked Goods,Social Gathering,180.0,40,600
+Baked Goods,Social Gathering,99.0,30,400
+Dairy Products,Social Gathering,157.5,35,600
+Dairy Products,Social Gathering,126.0,15,400
+Dairy Products,Social Gathering,112.5,20,400
+Vegetables,Corporate,157.5,30,400
+Baked Goods,Social Gathering,157.5,30,400
+Vegetables,Social Gathering,178.5,31,400
+Baked Goods,Social Gathering,180.0,40,600
+Dairy Products,Birthday,117.5,23,400
+Baked Goods,Birthday,130.5,27,200
+Vegetables,Corporate,135.0,30,600
+Fruits,Corporate,157.5,45,600
+Meat,Corporate,157.5,25,400
+Dairy Products,Wedding,144.0,45,600
+Meat,Wedding,180.0,45,600
+Fruits,Social Gathering,180.0,40,600
+Meat,Social Gathering,171.0,30,400
+Meat,Social Gathering,180.0,25,200
+Meat,Social Gathering,157.5,30,600
+Dairy Products,Corporate,157.5,30,600
+Fruits,Corporate,139.5,35,600
+Baked Goods,Birthday,202.5,30,600
+Baked Goods,Corporate,111.0,16,400
+Meat,Corporate,180.0,40,600
+Baked Goods,Wedding,99.0,35,600
+Fruits,Social Gathering,112.5,40,600
+Vegetables,Social Gathering,135.0,20,200
+Fruits,Social Gathering,154.0,29,400
+Dairy Products,Birthday,126.0,20,200
+Baked Goods,Wedding,157.5,35,600
+Baked Goods,Social Gathering,112.5,10,200
+Dairy Products,Corporate,99.0,15,400
+Baked Goods,Corporate,144.0,25,400
+Vegetables,Social Gathering,112.5,20,400
+Dairy Products,Corporate,157.5,30,600
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Corporate,180.0,50,600
+Dairy Products,Social Gathering,197.5,39,200
+Dairy Products,Wedding,135.0,25,400
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Wedding,126.0,20,400
+Baked Goods,Social Gathering,99.0,15,200
+Dairy Products,Social Gathering,135.0,40,600
+Fruits,Social Gathering,103.5,20,200
+Dairy Products,Birthday,157.5,25,400
+Dairy Products,Social Gathering,180.0,30,400
+Fruits,Social Gathering,99.0,15,400
+Baked Goods,Social Gathering,135.0,25,400
+Fruits,Social Gathering,126.0,20,400
+Fruits,Birthday,144.0,40,600
+Meat,Wedding,99.0,15,200
+Meat,Wedding,195.5,36,200
+Vegetables,Corporate,212.5,36,200
+Meat,Corporate,112.5,30,600
+Fruits,Wedding,99.0,15,400
+Meat,Corporate,144.0,35,600
+Vegetables,Wedding,157.5,30,600
+Meat,Corporate,180.0,40,600
+Fruits,Corporate,144.0,40,600
+Vegetables,Corporate,126.0,24,400
+Fruits,Birthday,131.5,50,600
+Meat,Wedding,93.5,22,400
+Fruits,Corporate,112.5,20,400
+Meat,Birthday,144.0,35,600
+Meat,Corporate,144.0,20,400
+Vegetables,Wedding,99.0,15,400
+Baked Goods,Corporate,136.0,27,200
+Vegetables,Social Gathering,112.5,20,400
+Baked Goods,Wedding,120.0,24,200
+Fruits,Wedding,204.0,54,600
+Vegetables,Social Gathering,180.0,30,600
+Meat,Wedding,135.0,15,400
+Baked Goods,Wedding,99.0,15,400
+Baked Goods,Birthday,135.0,40,600
+Fruits,Social Gathering,126.0,20,200
+Dairy Products,Corporate,130.5,27,200
+Meat,Corporate,197.0,35,400
+Baked Goods,Birthday,157.5,45,600
+Vegetables,Corporate,135.0,35,600
+Baked Goods,Corporate,135.0,15,400
+Dairy Products,Wedding,135.0,35,600
+Fruits,Social Gathering,120.0,24,200
+Fruits,Birthday,135.0,25,400
+Meat,Social Gathering,154.0,29,400
+Fruits,Birthday,157.5,25,400
+Fruits,Social Gathering,180.0,40,600
+Vegetables,Corporate,99.0,15,400
+Vegetables,Social Gathering,144.0,35,600
+Dairy Products,Birthday,221.0,32,600
+Fruits,Wedding,112.5,20,400
+Meat,Social Gathering,157.5,35,600
+Dairy Products,Social Gathering,99.0,15,200
+Baked Goods,Social Gathering,171.0,30,400
+Vegetables,Wedding,112.5,20,400
+Dairy Products,Wedding,180.0,50,600
+Dairy Products,Corporate,112.5,25,200
+Baked Goods,Social Gathering,180.0,50,600
+Baked Goods,Wedding,108.0,20,200
+Dairy Products,Social Gathering,112.5,20,400
+Dairy Products,Corporate,204.0,54,600
+Dairy Products,Social Gathering,171.0,30,400
+Baked Goods,Social Gathering,171.0,35,600
+Dairy Products,Birthday,112.5,40,600
+Vegetables,Social Gathering,99.0,15,400
+Fruits,Social Gathering,121.5,40,600
+Dairy Products,Social Gathering,126.0,24,400
+Baked Goods,Social Gathering,93.5,22,400
+Baked Goods,Social Gathering,126.0,15,400
+Dairy Products,Social Gathering,154.0,29,400
+Dairy Products,Social Gathering,144.0,25,400
+Dairy Products,Social Gathering,135.0,30,400
+Dairy Products,Social Gathering,139.5,35,600
+Baked Goods,Social Gathering,171.0,25,400
+Baked Goods,Social Gathering,195.5,36,200
+Meat,Wedding,128.0,32,200
+Meat,Wedding,112.5,10,200
+Meat,Wedding,112.5,20,200
+Meat,Birthday,126.0,20,200
+Meat,Corporate,135.0,20,200
+Meat,Birthday,180.0,45,600
+Meat,Corporate,135.0,40,600
+Meat,Corporate,157.5,35,600
+Meat,Corporate,180.0,40,600
+Fruits,Corporate,139.5,35,600
+Meat,Wedding,180.0,35,600
+Meat,Corporate,93.0,20,600
+Fruits,Wedding,171.0,35,600
+Meat,Social Gathering,136.0,27,200
+Dairy Products,Corporate,112.5,10,200
+Baked Goods,Birthday,126.0,15,200
+Vegetables,Birthday,157.5,35,600
+Fruits,Wedding,99.0,15,200
+Vegetables,Birthday,135.0,15,200
+Meat,Social Gathering,135.0,35,600
+Fruits,Corporate,112.5,20,400
+Vegetables,Wedding,157.5,40,600
+Fruits,Wedding,199.0,32,200
+Fruits,Wedding,157.5,25,400
+Baked Goods,Wedding,135.0,20,200
+Dairy Products,Birthday,139.5,35,600
+Baked Goods,Wedding,123.5,16,200
+Fruits,Social Gathering,139.5,35,600
+Baked Goods,Birthday,99.0,15,400
+Dairy Products,Wedding,171.0,30,400
+Dairy Products,Wedding,221.0,32,600
+Dairy Products,Birthday,112.5,20,400
+Vegetables,Corporate,112.5,40,600
+Fruits,Corporate,99.0,20,400
+Fruits,Birthday,144.0,25,400
+Fruits,Corporate,135.0,25,400
+Baked Goods,Corporate,112.5,20,400
+Meat,Social Gathering,135.0,15,400
+Baked Goods,Social Gathering,144.0,30,600
+Meat,Social Gathering,93.5,22,400
+Baked Goods,Corporate,197.0,35,400
+Vegetables,Social Gathering,126.0,20,200
+Baked Goods,Corporate,93.0,20,600
+Vegetables,Social Gathering,204.0,54,600
+Baked Goods,Social Gathering,171.0,30,400
+Dairy Products,Corporate,135.0,15,200
+Vegetables,Corporate,126.0,20,400
+Dairy Products,Social Gathering,180.0,40,600
+Dairy Products,Corporate,112.5,20,400
+Baked Goods,Birthday,157.5,35,600
+Baked Goods,Social Gathering,112.5,20,400
+Dairy Products,Corporate,112.5,20,400
+Baked Goods,Birthday,99.0,20,400
+Fruits,Social Gathering,126.0,20,400
+Vegetables,Social Gathering,112.5,20,400
+Dairy Products,Social Gathering,154.0,29,400
+Vegetables,Corporate,180.0,50,600
+Dairy Products,Birthday,135.0,40,600
+Dairy Products,Social Gathering,221.0,32,600
+Dairy Products,Corporate,126.0,20,400
+Dairy Products,Social Gathering,171.0,35,600
+Dairy Products,Social Gathering,135.0,40,600
+Dairy Products,Corporate,103.5,30,400
+Baked Goods,Social Gathering,135.0,25,400
+Meat,Wedding,135.0,40,600
+Meat,Wedding,135.0,20,200
+Meat,Wedding,136.0,27,200
+Vegetables,Birthday,212.5,36,200
+Meat,Corporate,135.0,40,600
+Vegetables,Wedding,112.5,10,200
+Meat,Corporate,130.5,27,200
+Meat,Corporate,195.5,36,200
+Fruits,Corporate,126.0,15,200
+Fruits,Wedding,180.0,45,600
+Meat,Wedding,157.5,35,600
+Meat,Corporate,112.5,30,600
+Vegetables,Wedding,157.5,35,600
+Meat,Corporate,157.5,25,400
+Vegetables,Wedding,126.0,20,400
+Fruits,Corporate,136.0,22,200
+Meat,Corporate,112.5,10,200
+Meat,Birthday,126.0,20,200
+Meat,Birthday,144.0,30,600
+Fruits,Corporate,112.5,10,200
+Meat,Birthday,171.0,30,400
+Meat,Corporate,171.0,30,400
+Meat,Corporate,126.0,20,400
+Vegetables,Corporate,195.5,36,600
+Meat,Birthday,180.0,40,600
+Meat,Social Gathering,112.5,20,400
+Vegetables,Social Gathering,144.0,40,600
+Baked Goods,Wedding,199.0,32,200
+Vegetables,Wedding,135.0,35,600
+Vegetables,Birthday,126.0,20,400
+Baked Goods,Birthday,171.0,30,400
+Fruits,Corporate,131.5,50,600
+Vegetables,Corporate,144.0,20,400
+Meat,Wedding,117.5,24,400
+Fruits,Corporate,135.0,15,400
+Vegetables,Birthday,180.0,25,200
+Fruits,Social Gathering,99.0,15,200
+Baked Goods,Birthday,180.0,40,600
+Dairy Products,Social Gathering,144.0,30,600
+Fruits,Social Gathering,112.5,20,200
+Vegetables,Wedding,126.0,15,400
+Baked Goods,Wedding,135.0,20,200
+Fruits,Birthday,126.0,20,400
+Fruits,Social Gathering,130.5,27,200
+Fruits,Birthday,144.0,35,600
+Dairy Products,Corporate,112.5,10,200
+Fruits,Birthday,117.5,23,400
+Baked Goods,Birthday,157.5,35,600
+Baked Goods,Birthday,121.5,40,600
+Vegetables,Social Gathering,144.0,30,600
+Baked Goods,Corporate,171.0,35,600
+Vegetables,Corporate,178.5,31,400
+Dairy Products,Wedding,157.5,30,600
+Dairy Products,Birthday,99.0,15,400
+Vegetables,Birthday,112.5,20,400
+Dairy Products,Corporate,99.0,15,200
+Meat,Wedding,120.0,24,200
+Meat,Wedding,126.0,20,200
+Fruits,Corporate,99.0,15,200
+Vegetables,Birthday,126.0,20,200
+Vegetables,Corporate,112.5,30,600
+Baked Goods,Birthday,126.0,20,400
+Dairy Products,Social Gathering,135.0,35,600
+Fruits,Social Gathering,135.0,25,400
+Dairy Products,Social Gathering,131.5,50,600
+Baked Goods,Social Gathering,144.0,25,400
+Fruits,Wedding,99.0,15,400
+Dairy Products,Birthday,165.0,40,200
+Vegetables,Birthday,99.0,15,200
+Fruits,Birthday,135.0,30,400
+Vegetables,Corporate,112.5,35,600
+Dairy Products,Corporate,180.0,45,600
+Dairy Products,Corporate,135.0,35,600
+Baked Goods,Social Gathering,112.5,40,600
+Dairy Products,Corporate,135.0,25,400
+Dairy Products,Social Gathering,108.0,20,200
+Vegetables,Corporate,99.0,15,400
+Meat,Birthday,99.0,15,400
+Baked Goods,Corporate,126.0,20,200
+Meat,Social Gathering,99.0,15,200
+Fruits,Birthday,126.0,20,400
+Fruits,Wedding,112.5,20,400
+Fruits,Social Gathering,144.0,30,600
+Vegetables,Corporate,103.5,20,200
+Fruits,Birthday,112.5,35,600
+Baked Goods,Birthday,135.0,35,600
+Meat,Social Gathering,126.0,20,400
+Vegetables,Corporate,93.5,22,400
+Meat,Social Gathering,112.5,20,400
+Vegetables,Wedding,93.5,22,400
+Baked Goods,Corporate,135.0,35,600
+Dairy Products,Corporate,136.0,27,200
+Baked Goods,Wedding,171.0,35,600
+Baked Goods,Social Gathering,165.0,40,200
+Baked Goods,Social Gathering,126.0,20,200
+Vegetables,Wedding,157.5,25,400
+Fruits,Social Gathering,180.0,50,600
+Meat,Social Gathering,126.0,15,200
+Vegetables,Social Gathering,126.0,20,400
+Dairy Products,Wedding,180.0,40,600
+Baked Goods,Social Gathering,139.5,35,600
+Baked Goods,Wedding,144.0,25,400
+Meat,Social Gathering,99.0,15,400
+Dairy Products,Wedding,180.0,35,600
+Dairy Products,Corporate,139.5,35,600
+Fruits,Social Gathering,112.5,20,400
+Fruits,Social Gathering,99.0,15,400
+Dairy Products,Birthday,135.0,35,600
+Dairy Products,Corporate,121.5,40,600
+Baked Goods,Social Gathering,180.0,40,600
+Baked Goods,Social Gathering,171.0,35,600
+Baked Goods,Social Gathering,135.0,30,400
+Dairy Products,Social Gathering,195.5,36,200
+Baked Goods,Birthday,157.5,25,400
+Dairy Products,Corporate,195.5,36,200
+Dairy Products,Birthday,157.5,35,600
+Baked Goods,Social Gathering,180.0,50,600
+Dairy Products,Social Gathering,144.0,15,200
+Baked Goods,Social Gathering,112.5,20,400
+Baked Goods,Social Gathering,144.0,25,400
+Dairy Products,Social Gathering,126.0,20,200
+Baked Goods,Social Gathering,197.0,35,400
+Dairy Products,Social Gathering,135.0,40,600
+Meat,Birthday,126.0,20,200
+Meat,Birthday,144.0,30,600
+Fruits,Corporate,180.0,30,600
+Meat,Birthday,131.5,50,600
+Meat,Corporate,99.0,15,200
+Fruits,Corporate,126.0,15,200
+Baked Goods,Birthday,144.0,30,600
+Baked Goods,Corporate,157.5,40,600
+Fruits,Social Gathering,197.5,26,200
+Fruits,Corporate,180.0,50,600
+Fruits,Corporate,180.0,40,600
+Fruits,Social Gathering,165.0,40,200
+Fruits,Wedding,171.0,25,400
+Vegetables,Wedding,112.5,40,600
+Vegetables,Wedding,171.0,25,400
+Baked Goods,Wedding,112.5,35,600
+Meat,Corporate,180.0,45,600
+Meat,Corporate,171.0,35,600
+Meat,Corporate,180.0,45,600
+Fruits,Corporate,157.5,35,600
+Vegetables,Birthday,112.5,20,400
+Vegetables,Wedding,180.0,40,600
+Fruits,Birthday,180.0,35,600
+Dairy Products,Birthday,144.0,30,600
+Dairy Products,Corporate,135.0,20,200
+Meat,Corporate,126.0,20,400
+Fruits,Corporate,99.0,15,400
+Meat,Social Gathering,144.0,25,400
+Baked Goods,Corporate,157.5,20,400
+Vegetables,Birthday,135.0,25,400
+Vegetables,Birthday,144.0,25,400
+Fruits,Corporate,99.0,15,400
+Fruits,Corporate,99.0,15,200
+Dairy Products,Birthday,99.0,15,200
+Baked Goods,Birthday,180.0,45,600
+Dairy Products,Corporate,180.0,40,600
+Dairy Products,Corporate,180.0,50,600
+Dairy Products,Birthday,99.0,15,400
+Baked Goods,Corporate,180.0,40,600
+Dairy Products,Corporate,195.5,36,200
+Baked Goods,Wedding,157.5,25,400
+Baked Goods,Birthday,99.0,15,200
+Baked Goods,Social Gathering,180.0,40,600
+Dairy Products,Corporate,112.5,30,600
+Baked Goods,Birthday,157.5,35,600
+Baked Goods,Social Gathering,204.0,54,600
+Dairy Products,Wedding,157.5,25,400
+Dairy Products,Social Gathering,117.0,20,200
+Vegetables,Social Gathering,157.5,20,400
+Fruits,Social Gathering,157.5,25,400
+Dairy Products,Birthday,112.5,15,400
+Baked Goods,Social Gathering,180.0,45,600
+Dairy Products,Social Gathering,144.0,25,400
+Baked Goods,Social Gathering,180.0,45,600
+Baked Goods,Social Gathering,157.5,25,400
+Baked Goods,Social Gathering,157.5,20,400
+Baked Goods,Social Gathering,180.0,40,600
+Dairy Products,Corporate,135.0,25,400
+Baked Goods,Social Gathering,112.5,20,400
+Fruits,Social Gathering,144.0,25,400
+Dairy Products,Social Gathering,112.5,20,400
+Meat,Wedding,180.0,30,600
+Meat,Corporate,144.0,45,600
+Meat,Wedding,180.0,25,200
+Fruits,Wedding,180.0,50,600
+Fruits,Wedding,171.0,35,600
+Meat,Wedding,135.0,40,600
+Meat,Wedding,180.0,25,200
+Fruits,Corporate,144.0,35,600
+Meat,Birthday,171.0,30,400
+Fruits,Corporate,171.0,30,400
+Meat,Wedding,135.0,15,400
+Vegetables,Birthday,171.0,30,400
+Meat,Corporate,126.0,20,400
+Baked Goods,Wedding,135.0,15,200
+Meat,Corporate,180.0,35,600
+Meat,Corporate,99.0,15,400
+Baked Goods,Birthday,130.5,27,200
+Fruits,Birthday,180.0,30,400
+Meat,Wedding,108.0,20,200
+Meat,Wedding,112.5,20,400
+Meat,Corporate,144.0,25,400
+Baked Goods,Birthday,202.5,30,600
+Baked Goods,Corporate,197.5,36,200
+Baked Goods,Wedding,126.0,20,200
+Fruits,Corporate,139.5,35,600
+Vegetables,Wedding,93.5,22,400
+Fruits,Wedding,93.5,22,400
+Vegetables,Birthday,112.5,20,400
+Baked Goods,Wedding,135.0,15,400
+Fruits,Corporate,112.5,20,400
+Baked Goods,Birthday,130.5,27,200
+Fruits,Corporate,154.0,29,400
+Dairy Products,Wedding,126.0,15,200
+Vegetables,Wedding,195.5,36,200
+Meat,Social Gathering,103.5,20,200
+Baked Goods,Birthday,221.0,32,600
+Dairy Products,Social Gathering,112.5,40,600
+Fruits,Social Gathering,144.0,40,600
+Fruits,Corporate,180.0,50,600
+Fruits,Corporate,103.5,20,200
+Fruits,Wedding,93.5,22,400
+Dairy Products,Birthday,99.0,15,400
+Fruits,Social Gathering,135.0,30,400
+Baked Goods,Birthday,204.0,54,600
+Baked Goods,Social Gathering,135.0,40,600
+Dairy Products,Corporate,99.0,15,200
+Fruits,Social Gathering,202.5,30,600
+Meat,Social Gathering,180.0,50,600
+Dairy Products,Corporate,99.0,15,200
+Baked Goods,Corporate,93.5,22,400
+Meat,Social Gathering,126.0,20,400
+Dairy Products,Wedding,157.5,35,600
+Fruits,Social Gathering,126.0,20,400
+Baked Goods,Social Gathering,157.5,45,600
+Baked Goods,Social Gathering,180.0,50,600
+Baked Goods,Social Gathering,135.0,40,600
+Baked Goods,Social Gathering,103.5,30,400
+Dairy Products,Corporate,180.0,50,600
+Dairy Products,Social Gathering,135.0,15,400
+Baked Goods,Social Gathering,157.5,25,400
+Dairy Products,Birthday,117.5,23,400
+Dairy Products,Social Gathering,197.0,35,400
+Meat,Birthday,221.0,32,600
+Meat,Birthday,135.0,15,200
+Meat,Wedding,135.0,40,600
+Meat,Wedding,157.5,35,600
+Meat,Corporate,131.5,50,600
+Meat,Wedding,135.0,25,400
+Baked Goods,Corporate,193.5,29,200
+Fruits,Corporate,99.0,15,200
+Meat,Wedding,144.0,35,600
+Fruits,Corporate,135.0,15,400
+Meat,Wedding,157.5,35,600
+Meat,Corporate,144.0,25,400
+Fruits,Birthday,180.0,50,600
+Baked Goods,Social Gathering,112.5,25,400
+Dairy Products,Social Gathering,117.5,23,400
+Fruits,Corporate,99.0,15,200
+Meat,Wedding,180.0,45,600
+Meat,Corporate,126.0,15,200
+Vegetables,Wedding,144.0,35,600
+Fruits,Wedding,144.0,35,600
+Meat,Corporate,112.5,20,400
+Vegetables,Birthday,126.0,20,200
+Meat,Birthday,135.0,15,200
+Meat,Corporate,135.0,15,400
+Meat,Corporate,157.5,20,400
+Meat,Corporate,99.0,30,400
+Vegetables,Corporate,126.0,20,200
+Meat,Corporate,180.0,40,600
+Vegetables,Birthday,144.0,40,600
+Dairy Products,Corporate,112.5,40,600
+Baked Goods,Birthday,139.5,25,200
+Vegetables,Corporate,99.0,20,400
+Baked Goods,Corporate,99.0,15,200
+Fruits,Wedding,157.5,40,600
+Meat,Corporate,144.0,25,400
+Fruits,Wedding,135.0,35,600
+Vegetables,Wedding,144.0,35,600
+Fruits,Social Gathering,144.0,30,600
+Fruits,Social Gathering,144.0,30,600
+Dairy Products,Corporate,139.5,25,200
+Meat,Corporate,135.0,35,600
+Vegetables,Corporate,112.5,40,600
+Fruits,Wedding,99.0,15,400
+Meat,Wedding,157.5,25,400
+Baked Goods,Corporate,180.0,40,600
+Dairy Products,Wedding,112.5,10,200
+Vegetables,Corporate,136.0,27,200
+Baked Goods,Wedding,157.5,25,200
+Baked Goods,Birthday,99.0,15,200
+Fruits,Birthday,112.5,20,400
+Baked Goods,Wedding,99.0,15,400
+Dairy Products,Corporate,126.0,20,200
+Meat,Social Gathering,219.5,63,600
+Fruits,Social Gathering,99.0,15,200
+Fruits,Social Gathering,144.0,45,600
+Meat,Corporate,144.0,25,400
+Dairy Products,Birthday,93.0,20,600
+Fruits,Wedding,126.0,20,400
+Baked Goods,Corporate,135.0,20,200
+Baked Goods,Corporate,139.5,35,600
+Fruits,Social Gathering,180.0,45,600
+Fruits,Birthday,180.0,25,200
+Fruits,Social Gathering,221.0,32,600
+Baked Goods,Wedding,99.0,15,400
+Baked Goods,Wedding,99.0,15,400
+Vegetables,Corporate,144.0,35,600
+Vegetables,Corporate,157.5,25,400
+Baked Goods,Wedding,180.0,50,600
+Baked Goods,Wedding,144.0,25,400
+Dairy Products,Corporate,135.0,20,200
+Baked Goods,Wedding,112.5,40,600
+Baked Goods,Wedding,126.0,25,200
+Dairy Products,Corporate,144.0,45,600
+Meat,Corporate,112.5,20,400
+Vegetables,Corporate,180.0,25,200
+Fruits,Birthday,180.0,25,200
+Meat,Social Gathering,135.0,35,600
+Dairy Products,Birthday,221.0,32,600
+Baked Goods,Corporate,112.5,30,600
+Fruits,Social Gathering,144.0,25,400
+Fruits,Social Gathering,99.0,15,400
+Fruits,Social Gathering,126.0,20,400
+Dairy Products,Birthday,180.0,45,600
+Baked Goods,Wedding,157.5,30,400
+Baked Goods,Social Gathering,180.0,40,600
+Baked Goods,Social Gathering,112.5,40,600
+Dairy Products,Corporate,180.0,25,200
+Fruits,Social Gathering,180.0,50,600
+Baked Goods,Social Gathering,139.5,35,600
+Baked Goods,Corporate,157.5,45,600
+Baked Goods,Corporate,144.0,40,600
+Baked Goods,Wedding,99.0,15,400
+Dairy Products,Birthday,126.0,20,200
+Dairy Products,Birthday,112.5,20,400
+Dairy Products,Wedding,112.5,30,600
+Baked Goods,Wedding,99.0,15,400
+Baked Goods,Social Gathering,135.0,20,200
+Dairy Products,Birthday,157.5,25,400
+Dairy Products,Social Gathering,154.0,29,400
+Baked Goods,Social Gathering,171.0,35,600
+Dairy Products,Birthday,112.5,40,600
+Baked Goods,Corporate,180.0,50,600
+Baked Goods,Wedding,180.0,50,600
+Baked Goods,Corporate,180.0,40,600
+Dairy Products,Wedding,180.0,40,600
+Dairy Products,Wedding,144.0,35,600
+Dairy Products,Social Gathering,154.0,29,400
+Dairy Products,Social Gathering,180.0,40,600
+Dairy Products,Social Gathering,144.0,35,600
+Baked Goods,Social Gathering,135.0,20,200
+Dairy Products,Social Gathering,99.0,15,400
+Baked Goods,Wedding,180.0,40,600
+Vegetables,Wedding,157.5,25,400
+Vegetables,Social Gathering,193.0,42,200
+Baked Goods,Social Gathering,171.0,25,400
+Baked Goods,Birthday,112.5,40,600
+Meat,Social Gathering,112.5,25,400
+Dairy Products,Corporate,112.5,20,400
+Baked Goods,Social Gathering,135.0,20,200
+Dairy Products,Social Gathering,144.0,40,600
+Baked Goods,Social Gathering,135.0,20,200
+Dairy Products,Social Gathering,171.0,25,400
+Baked Goods,Social Gathering,144.0,40,600
+Dairy Products,Social Gathering,135.0,25,400
+Dairy Products,Social Gathering,178.5,31,400
+Dairy Products,Social Gathering,126.0,15,400
+Baked Goods,Birthday,157.5,25,400
+Dairy Products,Social Gathering,126.0,20,400
+Meat,Wedding,219.5,63,600
+Meat,Corporate,144.0,25,400
+Meat,Birthday,136.0,27,200
+Meat,Wedding,135.0,35,600
+Meat,Wedding,157.5,40,600
+Vegetables,Wedding,126.0,20,200
+Meat,Wedding,135.0,35,600
+Fruits,Birthday,144.0,40,600
+Fruits,Birthday,157.5,30,600
+Meat,Birthday,135.0,20,200
+Meat,Corporate,157.5,30,600
+Baked Goods,Birthday,165.0,40,200
+Meat,Wedding,135.0,25,400
+Meat,Wedding,135.0,20,200
+Fruits,Birthday,126.0,25,200
+Fruits,Corporate,144.0,40,600
+Baked Goods,Wedding,144.0,35,600
+Meat,Birthday,112.5,25,200
+Vegetables,Birthday,93.0,20,600
+Meat,Social Gathering,112.5,35,600
+Meat,Corporate,112.5,35,600
+Fruits,Birthday,157.5,45,600
+Fruits,Wedding,197.0,35,400
+Dairy Products,Wedding,112.5,10,200
+Meat,Social Gathering,139.5,35,600
+Baked Goods,Birthday,171.0,30,400
+Baked Goods,Wedding,144.0,25,400
+Fruits,Corporate,180.0,50,600
+Meat,Social Gathering,204.0,54,600
+Baked Goods,Birthday,157.5,40,600
+Baked Goods,Corporate,180.0,45,600
+Meat,Corporate,180.0,50,600
+Dairy Products,Birthday,135.0,30,600
+Dairy Products,Birthday,195.5,36,200
+Fruits,Birthday,126.0,25,200
+Baked Goods,Social Gathering,180.0,30,400
+Baked Goods,Wedding,180.0,25,200
+Meat,Wedding,157.5,25,400
+Fruits,Birthday,204.0,54,600
+Dairy Products,Corporate,204.0,54,600
+Dairy Products,Wedding,108.0,20,200
+Dairy Products,Wedding,157.5,35,600
+Dairy Products,Birthday,135.0,25,400
+Dairy Products,Social Gathering,144.0,25,400
+Meat,Birthday,165.0,40,200
+Meat,Wedding,99.0,15,200
+Fruits,Wedding,126.0,20,200
+Fruits,Birthday,221.0,32,600
+Baked Goods,Wedding,195.5,36,200
+Vegetables,Corporate,103.5,30,400
+Baked Goods,Birthday,112.5,25,400
+Dairy Products,Corporate,135.0,25,400
+Baked Goods,Wedding,157.5,45,600
+Dairy Products,Wedding,144.0,25,400
+Dairy Products,Social Gathering,139.5,35,600
+Baked Goods,Birthday,126.0,20,400
+Dairy Products,Wedding,144.0,35,600
+Baked Goods,Social Gathering,117.0,20,200
+Meat,Birthday,180.0,30,400
+Meat,Wedding,99.0,15,400
+Meat,Corporate,123.5,16,200
+Meat,Corporate,144.0,40,600
+Meat,Corporate,180.0,50,600
+Dairy Products,Social Gathering,180.0,40,600
+Dairy Products,Birthday,144.0,15,400
+Vegetables,Social Gathering,135.0,35,600
+Baked Goods,Birthday,157.5,25,400
+Dairy Products,Social Gathering,99.0,15,200
+Dairy Products,Social Gathering,99.0,15,400
+Baked Goods,Social Gathering,180.0,50,600
+Baked Goods,Social Gathering,99.0,15,400
+Fruits,Wedding,204.0,54,600
+Meat,Corporate,180.0,50,600
+Fruits,Birthday,112.5,30,600
+Vegetables,Corporate,157.5,40,600
+Meat,Wedding,135.0,25,400
+Meat,Birthday,171.0,35,600
+Meat,Wedding,112.5,20,400
+Vegetables,Corporate,99.0,15,200
+Baked Goods,Wedding,219.5,63,600
+Meat,Corporate,180.0,50,600
+Baked Goods,Birthday,221.0,32,600
+Fruits,Wedding,180.0,40,600
+Meat,Birthday,117.5,23,400
+Vegetables,Wedding,195.5,36,200
+Fruits,Wedding,157.5,30,400
+Vegetables,Birthday,157.5,35,600
+Baked Goods,Birthday,171.0,30,400
+Fruits,Wedding,180.0,40,600
+Baked Goods,Wedding,111.0,16,400
+Dairy Products,Corporate,144.0,25,400
+Meat,Social Gathering,157.5,35,600
+Baked Goods,Wedding,93.0,20,600
+Baked Goods,Corporate,126.0,25,200
+Baked Goods,Corporate,180.0,40,600
+Dairy Products,Wedding,99.0,15,400
+Baked Goods,Wedding,180.0,40,600
+Baked Goods,Birthday,112.5,20,400
+Baked Goods,Birthday,144.0,20,400
+Vegetables,Corporate,112.5,25,400
+Baked Goods,Social Gathering,126.0,20,200
+Dairy Products,Corporate,135.0,40,600
+Dairy Products,Wedding,103.5,20,200
+Vegetables,Wedding,157.5,25,400
+Fruits,Corporate,117.5,23,400
+Baked Goods,Corporate,111.0,16,400
+Baked Goods,Corporate,171.0,30,400
+Baked Goods,Corporate,157.5,35,600
+Dairy Products,Birthday,135.0,20,200
+Baked Goods,Social Gathering,171.0,30,400
+Fruits,Social Gathering,171.0,35,600
+Vegetables,Social Gathering,135.0,35,600
+Baked Goods,Social Gathering,135.0,20,200
+Dairy Products,Wedding,135.0,25,400
+Baked Goods,Wedding,144.0,25,400
+Baked Goods,Social Gathering,135.0,30,400
+Baked Goods,Social Gathering,126.0,15,400
+Baked Goods,Corporate,93.5,22,400
+Baked Goods,Wedding,144.0,35,600
+Baked Goods,Social Gathering,135.0,40,600
+Dairy Products,Social Gathering,108.0,30,400
+Meat,Corporate,112.5,40,600
+Meat,Corporate,193.5,29,200
+Fruits,Social Gathering,157.5,25,400
+Baked Goods,Social Gathering,135.0,40,600
+Dairy Products,Social Gathering,99.0,15,400
+Baked Goods,Social Gathering,126.0,15,200
+Baked Goods,Social Gathering,157.5,25,400
+Dairy Products,Social Gathering,157.5,25,400
+Fruits,Wedding,144.0,35,600
+Meat,Wedding,135.0,15,200
+Meat,Wedding,171.0,30,400
+Meat,Corporate,135.0,20,200
+Meat,Wedding,112.5,25,400
+Fruits,Corporate,171.0,35,600
+Meat,Corporate,126.0,25,200
+Meat,Corporate,157.5,45,600
+Meat,Wedding,144.0,35,600
+Meat,Corporate,171.0,30,400
+Meat,Corporate,112.5,30,600
+Meat,Wedding,126.0,20,200
+Meat,Birthday,193.0,42,200
+Dairy Products,Wedding,144.0,30,600
+Meat,Wedding,180.0,50,600
+Fruits,Wedding,180.0,30,400
+Meat,Corporate,93.5,22,400
+Fruits,Social Gathering,144.0,30,600
+Vegetables,Wedding,157.5,20,200
+Vegetables,Corporate,126.0,25,200
+Meat,Wedding,157.5,25,400
+Fruits,Wedding,135.0,35,600
+Fruits,Wedding,123.5,16,200
+Fruits,Birthday,99.0,20,200
+Baked Goods,Wedding,180.0,30,600
+Vegetables,Social Gathering,136.0,27,200
+Baked Goods,Corporate,144.0,45,600
+Meat,Wedding,178.5,31,400
+Vegetables,Social Gathering,144.0,30,600
+Meat,Social Gathering,135.0,15,200
+Dairy Products,Corporate,135.0,20,200
+Fruits,Wedding,135.0,20,200
+Baked Goods,Birthday,144.0,15,400
+Meat,Birthday,103.5,30,400
+Meat,Social Gathering,144.0,35,600
+Meat,Wedding,126.0,20,200
+Fruits,Wedding,126.0,20,200
+Meat,Wedding,144.0,35,600
+Meat,Birthday,135.0,35,600
+Fruits,Wedding,126.0,25,200
+Meat,Birthday,180.0,45,600
+Meat,Social Gathering,112.5,20,400
+Baked Goods,Corporate,180.0,50,600
+Baked Goods,Corporate,154.0,29,400
+Vegetables,Birthday,157.5,25,400
+Fruits,Wedding,112.5,20,400
+Baked Goods,Birthday,144.0,40,600
+Vegetables,Corporate,144.0,25,400
+Fruits,Birthday,180.0,50,600
+Fruits,Corporate,144.0,20,400
+Meat,Social Gathering,112.5,20,200
+Baked Goods,Corporate,157.5,20,200
+Vegetables,Corporate,180.0,45,600
+Meat,Social Gathering,112.5,20,400
+Vegetables,Wedding,195.5,36,200
+Vegetables,Birthday,157.5,45,600
+Vegetables,Birthday,180.0,50,600
+Baked Goods,Wedding,126.0,15,400
+Fruits,Social Gathering,112.5,20,400
+Baked Goods,Wedding,135.0,40,600
+Vegetables,Corporate,112.5,20,400
+Baked Goods,Birthday,135.0,25,400
+Vegetables,Wedding,135.0,25,400
+Dairy Products,Social Gathering,126.0,20,200
+Baked Goods,Wedding,194.5,23,200
+Vegetables,Social Gathering,135.0,20,200
+Dairy Products,Wedding,135.0,40,600
+Dairy Products,Corporate,144.0,40,600
+Vegetables,Social Gathering,144.0,35,600
+Dairy Products,Corporate,135.0,15,400
+Baked Goods,Corporate,180.0,40,600
+Meat,Social Gathering,157.5,25,400
+Baked Goods,Corporate,144.0,25,400
+Meat,Social Gathering,99.0,15,400
+Dairy Products,Wedding,123.5,16,200
+Vegetables,Wedding,157.5,25,400
+Dairy Products,Birthday,144.0,25,400
+Fruits,Wedding,171.0,35,600
+Dairy Products,Birthday,180.0,40,600
+Vegetables,Social Gathering,135.0,25,400
+Baked Goods,Birthday,123.5,16,200
+Baked Goods,Corporate,180.0,35,600
+Meat,Social Gathering,112.5,25,400
+Baked Goods,Wedding,195.5,36,200
+Baked Goods,Social Gathering,144.0,30,600
+Baked Goods,Corporate,180.0,25,200
+Fruits,Social Gathering,99.0,15,400
+Baked Goods,Social Gathering,126.0,20,200
+Baked Goods,Wedding,135.0,15,400
+Baked Goods,Corporate,99.0,15,400
+Fruits,Social Gathering,126.0,15,400
+Dairy Products,Wedding,117.5,23,400
+Dairy Products,Social Gathering,123.5,16,200
+Dairy Products,Corporate,180.0,50,600
+Vegetables,Social Gathering,171.0,30,400
+Dairy Products,Birthday,126.0,20,400
+Baked Goods,Social Gathering,180.0,40,600
+Dairy Products,Corporate,99.0,15,400
+Fruits,Social Gathering,157.5,15,400
+Dairy Products,Birthday,157.5,25,400
+Dairy Products,Social Gathering,99.0,15,400
+Baked Goods,Social Gathering,99.0,20,200
+Baked Goods,Social Gathering,99.0,15,400
+Meat,Social Gathering,93.5,22,400
+Dairy Products,Wedding,112.5,34,600
+Dairy Products,Social Gathering,126.0,20,200
+Dairy Products,Birthday,157.5,45,600
+Baked Goods,Social Gathering,112.5,40,600
+Dairy Products,Corporate,180.0,25,200
+Baked Goods,Social Gathering,121.5,40,600
+Dairy Products,Corporate,112.5,25,400
+Dairy Products,Wedding,112.5,20,400
+Dairy Products,Social Gathering,93.5,22,400
+Baked Goods,Social Gathering,157.5,35,600
+Dairy Products,Social Gathering,112.5,20,400
+Dairy Products,Social Gathering,112.5,20,400
+Dairy Products,Social Gathering,112.5,25,400
+Meat,Birthday,136.0,27,200
+Meat,Wedding,193.5,29,200
+Meat,Birthday,180.0,30,400
+Meat,Wedding,99.0,15,200
+Meat,Wedding,157.5,35,600
+Meat,Wedding,112.5,20,400
+Meat,Corporate,130.5,27,200
+Meat,Birthday,99.0,20,200
+Meat,Corporate,135.0,20,200
+Meat,Corporate,108.0,20,200
+Meat,Corporate,199.0,32,200
+Meat,Wedding,135.0,20,200
+Meat,Corporate,180.0,50,600
+Vegetables,Birthday,221.0,32,600
+Meat,Birthday,99.0,20,400
+Meat,Birthday,157.5,45,600
+Meat,Social Gathering,135.0,40,600
+Vegetables,Social Gathering,136.0,27,200
+Meat,Corporate,157.5,25,400
+Meat,Corporate,135.0,15,400
+Fruits,Corporate,202.5,30,600
+Meat,Corporate,195.5,36,200
+Meat,Corporate,112.5,40,600
+Meat,Birthday,202.5,30,600
+Meat,Wedding,195.5,36,200
+Meat,Birthday,126.0,15,200
+Meat,Corporate,126.0,15,200
+Meat,Corporate,126.0,15,200
+Meat,Corporate,193.0,42,200
+Meat,Corporate,144.0,25,400
+Meat,Corporate,180.0,45,600
+Fruits,Corporate,99.0,20,400
+Dairy Products,Birthday,99.0,15,200
+Fruits,Social Gathering,112.5,20,400
+Dairy Products,Corporate,135.0,30,600
+Dairy Products,Wedding,180.0,30,600
+Baked Goods,Social Gathering,193.5,29,200
+Fruits,Birthday,135.0,20,400
+Fruits,Corporate,144.0,25,400
+Baked Goods,Wedding,126.0,20,400
+Vegetables,Birthday,157.5,35,600
+Meat,Social Gathering,204.0,54,600
+Vegetables,Wedding,135.0,20,200
+Baked Goods,Corporate,144.0,25,400
+Dairy Products,Birthday,144.0,30,600
+Baked Goods,Corporate,135.0,40,600
+Meat,Wedding,157.5,40,600
+Baked Goods,Corporate,112.5,10,200
+Meat,Wedding,99.0,20,400
+Meat,Birthday,99.0,15,400
+Meat,Corporate,112.5,10,200
+Fruits,Corporate,112.5,10,200
+Meat,Corporate,99.0,15,400
+Meat,Corporate,121.5,40,600
+Meat,Birthday,126.0,20,400
+Fruits,Wedding,135.0,40,600
+Dairy Products,Birthday,144.0,40,600
+Baked Goods,Birthday,126.0,25,400
+Vegetables,Corporate,202.5,30,600
+Meat,Birthday,126.0,15,200
+Meat,Corporate,171.0,30,400
+Vegetables,Birthday,144.0,40,600
+Meat,Wedding,157.5,35,600
+Meat,Wedding,157.5,25,400
+Vegetables,Social Gathering,99.0,20,400
+Dairy Products,Social Gathering,99.0,10,200
+Baked Goods,Social Gathering,139.5,35,600
+Baked Goods,Corporate,99.0,15,400
+Baked Goods,Birthday,126.0,20,400
+Meat,Wedding,180.0,25,200
+Meat,Wedding,112.5,20,400
+Meat,Social Gathering,126.0,20,200
+Vegetables,Wedding,157.5,45,600
+Meat,Social Gathering,180.0,40,600
+Baked Goods,Corporate,180.0,40,600
+Dairy Products,Social Gathering,112.5,20,200
+Dairy Products,Wedding,144.0,35,600
+Dairy Products,Wedding,157.5,20,400
+Dairy Products,Wedding,180.0,50,600
+Baked Goods,Social Gathering,135.0,40,600
+Baked Goods,Birthday,112.5,25,400
+Baked Goods,Wedding,157.5,25,400
+Baked Goods,Corporate,112.5,25,400
+Baked Goods,Birthday,144.0,25,400
+Fruits,Social Gathering,126.0,15,400
+Baked Goods,Corporate,111.0,16,400
+Dairy Products,Corporate,180.0,50,600
+Dairy Products,Wedding,171.0,35,600
+Fruits,Social Gathering,180.0,50,600
+Fruits,Wedding,112.5,20,400
+Meat,Social Gathering,144.0,25,400
+Meat,Corporate,144.0,25,400
+Fruits,Birthday,126.0,20,400
+Baked Goods,Corporate,99.0,15,200
+Vegetables,Wedding,130.5,27,200
+Fruits,Corporate,219.5,63,600
+Vegetables,Birthday,99.0,15,200
+Meat,Wedding,157.5,35,600
+Fruits,Wedding,135.0,40,600
+Fruits,Corporate,180.0,30,400
+Fruits,Birthday,154.0,29,400
+Meat,Social Gathering,131.5,50,600
+Fruits,Wedding,144.0,15,200
+Meat,Corporate,157.5,25,400
+Dairy Products,Corporate,171.0,25,400
+Baked Goods,Social Gathering,112.5,20,400
+Baked Goods,Social Gathering,111.0,16,400
+Dairy Products,Wedding,178.5,31,400
+Dairy Products,Social Gathering,135.0,15,400
+Baked Goods,Wedding,126.0,15,200
+Baked Goods,Corporate,144.0,40,600
+Vegetables,Birthday,126.0,20,400
+Baked Goods,Corporate,99.0,15,200
+Baked Goods,Wedding,195.5,36,200
+Meat,Corporate,135.0,15,400
+Dairy Products,Corporate,135.0,30,600
+Baked Goods,Birthday,99.0,20,400
+Baked Goods,Birthday,123.5,16,200
+Baked Goods,Wedding,180.0,40,600
+Vegetables,Social Gathering,112.5,20,200
+Fruits,Social Gathering,135.0,40,600
+Fruits,Corporate,157.5,40,600
+Vegetables,Corporate,154.0,29,400
+Baked Goods,Birthday,144.0,40,600
+Fruits,Social Gathering,219.5,63,600
+Baked Goods,Corporate,126.0,25,200
+Baked Goods,Birthday,126.0,20,400
+Fruits,Corporate,126.0,15,400
+Dairy Products,Wedding,135.0,20,200
+Meat,Social Gathering,135.0,35,600
+Dairy Products,Wedding,126.0,15,200
+Fruits,Social Gathering,197.5,39,200
+Dairy Products,Wedding,171.0,10,200
+Baked Goods,Corporate,180.0,25,200
+Baked Goods,Birthday,111.0,16,400
+Baked Goods,Corporate,99.0,15,400
+Dairy Products,Social Gathering,126.0,15,200
+Dairy Products,Wedding,126.0,15,200
+Baked Goods,Corporate,180.0,50,600
+Vegetables,Corporate,180.0,40,600
+Dairy Products,Social Gathering,144.0,40,600
+Fruits,Wedding,112.5,20,400
+Fruits,Corporate,197.0,35,400
+Baked Goods,Social Gathering,99.0,15,200
+Fruits,Birthday,144.0,25,400
+Meat,Social Gathering,112.5,20,400
+Fruits,Corporate,180.0,35,600
+Vegetables,Corporate,157.5,25,400
+Baked Goods,Wedding,99.0,15,400
+Dairy Products,Corporate,157.5,20,200
+Dairy Products,Birthday,157.5,30,600
+Dairy Products,Birthday,135.0,35,600
+Dairy Products,Corporate,180.0,40,600
+Dairy Products,Corporate,219.5,63,600
+Dairy Products,Corporate,157.5,35,600
+Vegetables,Social Gathering,103.5,30,400
+Dairy Products,Wedding,112.5,40,600
+Baked Goods,Birthday,144.0,25,400
+Baked Goods,Wedding,93.5,22,400
+Baked Goods,Social Gathering,157.5,35,600
+Baked Goods,Social Gathering,99.0,20,400
+Dairy Products,Corporate,157.5,20,400
+Dairy Products,Social Gathering,108.0,20,200
+Baked Goods,Social Gathering,157.5,35,600
+Baked Goods,Birthday,99.0,15,400
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Corporate,180.0,40,600
+Dairy Products,Wedding,157.5,40,600
+Baked Goods,Social Gathering,112.5,20,400
+Meat,Social Gathering,157.5,25,400
+Dairy Products,Corporate,157.5,30,400
+Dairy Products,Birthday,135.0,15,400
+Dairy Products,Social Gathering,126.0,25,200
+Dairy Products,Social Gathering,126.0,15,200
+Dairy Products,Birthday,204.0,54,600
+Dairy Products,Birthday,144.0,25,400
+Fruits,Social Gathering,99.0,15,400
+Baked Goods,Birthday,93.5,22,400
+Dairy Products,Corporate,99.0,15,400
+Dairy Products,Corporate,135.0,15,400
+Dairy Products,Social Gathering,126.0,20,400
+Meat,Wedding,144.0,30,600
+Meat,Birthday,135.0,40,600
+Meat,Wedding,136.0,27,200
+Meat,Wedding,112.5,35,600
+Fruits,Social Gathering,144.0,40,600
+Meat,Corporate,144.0,25,400
+Baked Goods,Birthday,128.0,32,200
+Meat,Wedding,126.0,20,200
+Meat,Wedding,204.0,54,600
+Meat,Birthday,180.0,25,200
+Meat,Social Gathering,144.0,30,600
+Vegetables,Wedding,195.5,36,200
+Meat,Corporate,135.0,15,400
+Fruits,Corporate,99.0,20,400
+Vegetables,Corporate,180.0,45,600
+Meat,Corporate,135.0,25,400
+Meat,Wedding,135.0,25,400
+Fruits,Birthday,185.5,38,200
+Fruits,Birthday,221.0,32,600
+Meat,Social Gathering,135.0,20,200
+Fruits,Birthday,121.5,40,600
+Baked Goods,Wedding,99.0,15,400
+Baked Goods,Wedding,180.0,45,600
+Dairy Products,Corporate,112.5,10,200
+Baked Goods,Corporate,180.0,25,200
+Vegetables,Corporate,135.0,15,400
+Dairy Products,Wedding,171.0,30,400
+Dairy Products,Corporate,144.0,35,600
+Baked Goods,Birthday,126.0,15,200
+Vegetables,Social Gathering,157.5,20,200
+Baked Goods,Social Gathering,99.0,10,200
+Dairy Products,Wedding,144.0,25,400
+Fruits,Birthday,99.0,15,400
+Baked Goods,Birthday,157.5,45,600
+Baked Goods,Corporate,185.5,38,200
+Baked Goods,Social Gathering,99.0,15,200
+Fruits,Wedding,157.5,25,400
+Vegetables,Birthday,144.0,25,400
+Vegetables,Corporate,157.5,25,400
+Vegetables,Wedding,112.5,25,400
+Baked Goods,Social Gathering,144.0,30,600
+Fruits,Social Gathering,193.0,42,200
+Baked Goods,Wedding,126.0,23,200
+Dairy Products,Birthday,180.0,35,600
+Dairy Products,Social Gathering,135.0,20,200
+Dairy Products,Wedding,126.0,15,200
+Baked Goods,Social Gathering,180.0,40,600
+Baked Goods,Wedding,180.0,40,600
+Dairy Products,Corporate,135.0,25,400
+Dairy Products,Birthday,93.5,22,400
+Vegetables,Social Gathering,103.5,30,400
+Dairy Products,Birthday,99.0,15,200
+Dairy Products,Social Gathering,135.0,30,400
+Dairy Products,Social Gathering,126.0,20,200
+Baked Goods,Social Gathering,135.0,15,400
+Dairy Products,Social Gathering,180.0,50,600
+Baked Goods,Social Gathering,93.5,22,400
+Fruits,Social Gathering,117.5,23,400
+Meat,Birthday,144.0,40,600
+Fruits,Wedding,135.0,40,600
+Meat,Birthday,221.0,32,600
+Meat,Corporate,99.0,10,200
+Meat,Wedding,123.5,16,200
+Dairy Products,Social Gathering,157.5,20,400
+Dairy Products,Corporate,135.0,25,400
+Dairy Products,Social Gathering,144.0,35,600
+Meat,Birthday,135.0,30,400
+Meat,Wedding,144.0,25,400
+Meat,Corporate,171.0,30,400
+Meat,Corporate,199.0,32,200
+Baked Goods,Wedding,112.5,10,200
+Baked Goods,Corporate,112.5,40,600
+Vegetables,Wedding,135.0,20,200
+Meat,Wedding,112.5,20,400
+Meat,Social Gathering,144.0,30,600
+Meat,Corporate,112.5,20,200
+Meat,Birthday,157.5,45,600
+Meat,Wedding,171.0,35,600
+Meat,Birthday,180.0,40,600
+Fruits,Corporate,157.5,20,200
+Vegetables,Wedding,180.0,50,600
+Fruits,Wedding,157.5,10,200
+Fruits,Wedding,112.5,40,600
+Fruits,Birthday,126.0,15,200
+Fruits,Corporate,180.0,50,600
+Meat,Birthday,135.0,25,400
+Baked Goods,Corporate,99.0,15,200
+Fruits,Social Gathering,144.0,40,600
+Meat,Corporate,103.5,20,200
+Meat,Corporate,204.0,54,600
+Fruits,Wedding,171.0,35,600
+Vegetables,Corporate,144.0,40,600
+Meat,Social Gathering,221.0,32,600
+Fruits,Birthday,126.0,20,400
+Baked Goods,Wedding,180.0,25,200
+Fruits,Social Gathering,202.5,30,600
+Vegetables,Corporate,99.0,15,400
+Fruits,Corporate,117.5,23,400
+Fruits,Social Gathering,99.0,15,200
+Meat,Corporate,144.0,25,400
+Dairy Products,Wedding,112.5,40,600
+Baked Goods,Social Gathering,99.0,20,200
+Baked Goods,Wedding,131.5,50,600
+Dairy Products,Corporate,144.0,20,400
+Dairy Products,Corporate,135.0,25,400
+Baked Goods,Wedding,180.0,40,600
+Baked Goods,Birthday,204.0,54,600
+Baked Goods,Wedding,144.0,35,600
+Dairy Products,Birthday,144.0,15,200
+Dairy Products,Birthday,99.0,15,200
+Dairy Products,Social Gathering,139.5,35,600
+Dairy Products,Corporate,99.0,15,400
+Fruits,Social Gathering,180.0,50,600
+Baked Goods,Corporate,103.5,30,200
+Baked Goods,Birthday,126.0,20,400
+Baked Goods,Wedding,112.5,20,400
+Baked Goods,Social Gathering,178.5,31,400
+Baked Goods,Social Gathering,135.0,25,400
+Baked Goods,Social Gathering,157.5,25,400
+Dairy Products,Social Gathering,112.5,20,400
+Meat,Corporate,157.5,35,600
+Meat,Social Gathering,144.0,40,600
+Vegetables,Wedding,126.0,20,200
+Meat,Social Gathering,144.0,30,600
+Dairy Products,Wedding,197.0,35,400
+Vegetables,Social Gathering,185.5,38,200
+Dairy Products,Wedding,135.0,35,600
+Dairy Products,Wedding,180.0,40,600
+Dairy Products,Social Gathering,157.5,30,600
+Meat,Birthday,135.0,30,400
+Meat,Corporate,126.0,20,200
+Fruits,Birthday,144.0,30,600
+Baked Goods,Birthday,165.0,40,200
+Vegetables,Wedding,99.0,10,200
+Baked Goods,Corporate,112.5,25,400
+Dairy Products,Social Gathering,144.0,35,600
+Baked Goods,Social Gathering,157.5,20,200
+Baked Goods,Social Gathering,144.0,35,600
+Dairy Products,Social Gathering,126.0,20,400
+Baked Goods,Social Gathering,99.0,15,400
+Dairy Products,Social Gathering,139.5,35,600
+Baked Goods,Social Gathering,154.0,29,400
+Dairy Products,Social Gathering,157.5,20,200
+Dairy Products,Birthday,157.5,25,400
+Meat,Wedding,180.0,40,600
+Vegetables,Birthday,136.0,27,200
+Meat,Corporate,99.0,15,400
+Fruits,Wedding,180.0,40,600
+Meat,Wedding,157.5,25,400
+Meat,Corporate,112.5,25,200
+Meat,Birthday,204.0,54,600
+Meat,Wedding,93.5,22,400
+Meat,Wedding,144.0,25,400
+Fruits,Wedding,131.5,50,600
+Meat,Wedding,108.0,20,200
+Meat,Wedding,99.0,15,400
+Meat,Wedding,157.5,35,600
+Vegetables,Wedding,99.0,15,400
+Meat,Corporate,171.0,30,400
+Baked Goods,Birthday,144.0,25,400
+Fruits,Corporate,157.5,30,600
+Vegetables,Corporate,157.5,35,600
+Fruits,Birthday,126.0,20,400
+Fruits,Corporate,157.5,45,600
+Meat,Corporate,180.0,40,600
+Fruits,Corporate,144.0,25,400
+Meat,Wedding,112.5,25,400
+Baked Goods,Corporate,180.0,40,600
+Fruits,Corporate,126.0,25,200
+Fruits,Wedding,144.0,35,600
+Vegetables,Social Gathering,144.0,30,600
+Meat,Corporate,99.0,15,400
+Fruits,Birthday,157.5,25,400
+Baked Goods,Wedding,180.0,40,600
+Fruits,Birthday,157.5,40,600
+Meat,Corporate,157.5,30,400
+Baked Goods,Wedding,135.0,15,400
+Meat,Wedding,157.5,25,400
+Vegetables,Wedding,180.0,40,600
+Vegetables,Birthday,126.0,20,400
+Fruits,Corporate,139.5,35,600
+Vegetables,Social Gathering,99.0,15,200
+Baked Goods,Corporate,157.5,30,400
+Fruits,Social Gathering,171.0,30,400
+Fruits,Social Gathering,135.0,30,600
+Dairy Products,Birthday,128.0,32,200
+Baked Goods,Wedding,144.0,25,400
+Vegetables,Corporate,157.5,25,400
+Fruits,Wedding,112.5,20,400
+Vegetables,Wedding,180.0,40,600
+Baked Goods,Wedding,157.5,45,600
+Fruits,Wedding,180.0,50,600
+Baked Goods,Social Gathering,144.0,30,600
+Meat,Social Gathering,126.0,20,400
+Baked Goods,Birthday,157.5,45,600
+Vegetables,Social Gathering,99.0,30,400
+Fruits,Social Gathering,180.0,45,600
+Baked Goods,Corporate,99.0,15,400
+Dairy Products,Wedding,103.5,20,200
+Dairy Products,Wedding,197.0,35,400
+Vegetables,Social Gathering,135.0,35,600
+Dairy Products,Corporate,135.0,30,600
+Fruits,Social Gathering,126.0,25,200
+Dairy Products,Birthday,157.5,25,400
+Dairy Products,Corporate,135.0,15,200
+Vegetables,Corporate,126.0,20,400
+Baked Goods,Corporate,112.5,25,400
+Baked Goods,Birthday,99.0,15,400
+Dairy Products,Corporate,154.0,29,400
+Baked Goods,Social Gathering,171.0,30,400
+Dairy Products,Birthday,135.0,25,400
+Baked Goods,Social Gathering,126.0,20,400
+Baked Goods,Wedding,157.5,25,400
+Baked Goods,Corporate,135.0,40,600
+Meat,Social Gathering,135.0,35,600
+Fruits,Social Gathering,180.0,25,200
+Fruits,Birthday,135.0,15,400
+Fruits,Wedding,180.0,50,600
+Dairy Products,Wedding,180.0,50,600
+Vegetables,Birthday,126.0,15,200
+Baked Goods,Wedding,180.0,25,200
+Dairy Products,Birthday,126.0,20,400
+Dairy Products,Corporate,112.5,20,400
+Dairy Products,Corporate,126.0,20,200
+Dairy Products,Wedding,112.5,25,400
+Baked Goods,Social Gathering,171.0,30,400
+Dairy Products,Wedding,157.5,40,600
+Baked Goods,Corporate,112.5,20,400
+Baked Goods,Social Gathering,135.0,30,400
+Baked Goods,Social Gathering,180.0,50,600
+Baked Goods,Social Gathering,130.5,27,200
+Dairy Products,Wedding,157.5,35,600
+Baked Goods,Social Gathering,221.0,32,600
+Baked Goods,Birthday,157.5,30,400
+Baked Goods,Corporate,111.0,16,400
+Dairy Products,Birthday,180.0,45,600
+Fruits,Social Gathering,112.5,25,400
+Dairy Products,Corporate,99.0,15,200
+Baked Goods,Social Gathering,144.0,40,600
+Dairy Products,Birthday,144.0,40,600
+Baked Goods,Wedding,112.5,20,400
+Baked Goods,Birthday,112.5,20,400
+Meat,Birthday,128.0,32,200
+Meat,Corporate,126.0,20,200
+Meat,Wedding,135.0,20,200
+Meat,Corporate,135.0,40,600
+Meat,Corporate,139.5,25,200
+Meat,Wedding,185.5,38,200
+Meat,Wedding,195.5,36,200
+Meat,Birthday,112.5,30,600
+Meat,Corporate,180.0,50,600
+Fruits,Birthday,126.0,20,200
+Meat,Social Gathering,135.0,20,200
+Meat,Wedding,135.0,20,200
+Meat,Wedding,180.0,40,600
+Meat,Social Gathering,144.0,30,600
+Meat,Social Gathering,112.5,10,200
+Vegetables,Corporate,144.0,30,600
+Meat,Social Gathering,135.0,20,200
+Meat,Corporate,144.0,25,400
+Fruits,Birthday,180.0,40,600
+Meat,Social Gathering,139.5,25,200
+Fruits,Wedding,112.5,30,600
+Meat,Corporate,135.0,25,400
+Vegetables,Birthday,135.0,15,400
+Vegetables,Corporate,126.0,15,200
+Baked Goods,Wedding,195.5,36,200
+Fruits,Social Gathering,126.0,20,200
+Fruits,Corporate,180.0,35,600
+Baked Goods,Social Gathering,135.0,30,600
+Meat,Wedding,157.5,45,600
+Meat,Wedding,112.5,20,400
+Meat,Wedding,103.5,30,400
+Meat,Social Gathering,99.0,15,400
+Baked Goods,Corporate,171.0,35,600
+Fruits,Corporate,126.0,20,400
+Fruits,Social Gathering,135.0,30,600
+Baked Goods,Wedding,180.0,50,600
+Baked Goods,Wedding,180.0,50,600
+Dairy Products,Birthday,126.0,20,400
+Baked Goods,Birthday,135.0,20,200
+Baked Goods,Social Gathering,126.0,20,200
+Meat,Social Gathering,157.5,45,600
+Vegetables,Wedding,135.0,25,400
+Meat,Social Gathering,144.0,25,400
+Dairy Products,Social Gathering,103.5,30,400
+Dairy Products,Social Gathering,112.5,20,400
+Meat,Corporate,135.0,20,200
+Meat,Social Gathering,144.0,25,400
+Fruits,Social Gathering,157.5,10,200
+Dairy Products,Social Gathering,112.5,35,600
+Dairy Products,Corporate,157.5,45,600
+Fruits,Wedding,157.5,40,600
+Vegetables,Corporate,157.5,40,600
+Fruits,Wedding,112.5,25,200
+Fruits,Wedding,144.0,25,400
+Meat,Birthday,120.0,24,200
+Fruits,Corporate,180.0,25,200
+Fruits,Corporate,157.5,54,600
+Meat,Corporate,135.0,20,400
+Fruits,Birthday,197.5,36,200
+Baked Goods,Wedding,123.5,16,200
+Vegetables,Social Gathering,144.0,30,600
+Fruits,Corporate,112.5,20,200
+Fruits,Wedding,135.0,15,400
+Vegetables,Corporate,99.0,15,200
+Meat,Wedding,157.5,35,600
+Baked Goods,Corporate,112.5,20,200
+Vegetables,Wedding,126.0,20,200
+Dairy Products,Birthday,144.0,40,600
+Vegetables,Wedding,103.5,30,400
+Vegetables,Birthday,112.5,40,600
+Vegetables,Social Gathering,135.0,30,400
+Vegetables,Wedding,117.5,23,400
+Fruits,Corporate,135.0,35,600
+Dairy Products,Birthday,126.0,25,200
+Dairy Products,Wedding,144.0,25,400
+Baked Goods,Birthday,117.5,24,400
+Dairy Products,Corporate,171.0,30,400
+Baked Goods,Social Gathering,99.0,15,400
+Fruits,Social Gathering,112.5,30,600
+Vegetables,Wedding,193.0,42,200
+Dairy Products,Birthday,144.0,30,600
+Baked Goods,Corporate,135.0,15,200
+Dairy Products,Corporate,144.0,25,400
+Dairy Products,Corporate,180.0,45,600
+Dairy Products,Wedding,157.5,25,400
+Dairy Products,Social Gathering,180.0,50,600
+Meat,Wedding,221.0,32,600
+Meat,Corporate,112.5,10,200
+Baked Goods,Wedding,126.0,15,400
+Meat,Birthday,197.0,35,400
+Baked Goods,Social Gathering,212.5,36,200
+Baked Goods,Birthday,221.0,32,600
+Baked Goods,Corporate,180.0,40,600
+Baked Goods,Birthday,135.0,20,200
+Vegetables,Wedding,144.0,35,600
+Vegetables,Corporate,112.5,20,400
+Dairy Products,Wedding,180.0,40,600
+Dairy Products,Birthday,126.0,15,200
+Baked Goods,Social Gathering,126.0,20,400
+Dairy Products,Corporate,180.0,40,600
+Dairy Products,Wedding,157.5,45,600
+Dairy Products,Birthday,180.0,25,200
+Dairy Products,Birthday,126.0,20,400
+Dairy Products,Corporate,180.0,50,600
+Baked Goods,Corporate,157.5,25,400
+Dairy Products,Wedding,180.0,40,600
+Fruits,Social Gathering,112.5,20,400
+Baked Goods,Corporate,131.5,50,600
+Baked Goods,Wedding,180.0,40,600
+Baked Goods,Social Gathering,144.0,25,400
+Dairy Products,Corporate,99.0,15,400
+Baked Goods,Social Gathering,202.5,30,600
+Fruits,Social Gathering,126.0,20,400
+Meat,Corporate,171.0,30,400
+Meat,Wedding,144.0,25,400
+Meat,Corporate,93.0,20,600
+Meat,Birthday,221.0,38,600
+Meat,Corporate,120.0,24,200
+Dairy Products,Corporate,126.0,20,400
+Baked Goods,Corporate,126.0,20,400
+Dairy Products,Corporate,126.0,20,400
+Baked Goods,Social Gathering,180.0,50,600
+Dairy Products,Birthday,144.0,20,400
+Dairy Products,Social Gathering,126.0,20,400
+Baked Goods,Social Gathering,221.0,32,600
+Dairy Products,Corporate,197.0,35,400
+Dairy Products,Corporate,157.5,25,400
+Baked Goods,Social Gathering,199.0,32,200
+Meat,Corporate,121.5,40,600
+Meat,Social Gathering,128.0,32,200
+Meat,Wedding,112.5,25,200
+Meat,Corporate,144.0,25,400
+Meat,Wedding,99.0,15,400
+Meat,Social Gathering,165.0,40,200
+Meat,Birthday,195.5,36,600
+Meat,Corporate,126.0,20,400
+Meat,Birthday,108.0,20,200
+Fruits,Birthday,171.0,30,400
+Dairy Products,Birthday,144.0,40,600
+Fruits,Social Gathering,112.5,20,200
+Fruits,Corporate,136.0,27,200
+Fruits,Wedding,135.0,40,600
+Vegetables,Corporate,120.0,24,200
+Fruits,Corporate,144.0,25,400
+Baked Goods,Corporate,219.5,63,600
+Meat,Corporate,157.5,45,600
+Fruits,Social Gathering,135.0,40,600
+Vegetables,Birthday,135.0,15,400
+Dairy Products,Birthday,212.5,36,200
+Fruits,Corporate,171.0,30,400
+Vegetables,Wedding,193.0,42,200
+Baked Goods,Birthday,99.0,15,200
+Meat,Social Gathering,99.0,15,200
+Fruits,Corporate,157.5,30,400
+Dairy Products,Corporate,112.5,30,600
+Fruits,Wedding,103.5,30,400
+Dairy Products,Social Gathering,144.0,30,600
+Meat,Corporate,144.0,45,600
+Meat,Wedding,139.5,25,200
+Fruits,Birthday,221.0,32,600
+Meat,Birthday,221.0,32,600
+Meat,Birthday,126.0,20,400
+Meat,Corporate,131.5,50,600
+Vegetables,Wedding,135.0,30,600
+Baked Goods,Birthday,144.0,30,600
+Fruits,Corporate,139.5,35,600
+Vegetables,Social Gathering,126.0,20,200
+Meat,Social Gathering,144.0,30,600
+Meat,Corporate,135.0,25,400
+Vegetables,Wedding,171.0,35,600
+Fruits,Birthday,171.0,30,400
+Fruits,Wedding,180.0,45,600
+Fruits,Wedding,157.5,35,600
+Meat,Birthday,144.0,20,400
+Meat,Wedding,157.5,35,600
+Fruits,Wedding,193.0,42,200
+Vegetables,Corporate,157.5,35,600
+Fruits,Birthday,221.0,32,600
+Meat,Birthday,157.5,25,400
+Meat,Social Gathering,221.0,32,600
+Baked Goods,Corporate,139.5,35,600
+Baked Goods,Social Gathering,128.0,32,200
+Fruits,Wedding,99.0,15,400
+Fruits,Wedding,112.5,20,400
+Baked Goods,Wedding,180.0,45,600
